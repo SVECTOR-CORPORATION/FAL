@@ -266,8 +266,10 @@ If you use FAL in your research, please cite the following paper:
   url={https://www.svector.co.in},
 }
 ```
+---
+PAPER:  `COMING SOON`
 
-
+---
 ### Explanation of Sections:
 1. **Overview**: Provides a brief introduction and feature set of FAL.
 2. **Links**: Includes demo and model links (replace with your actual links).
