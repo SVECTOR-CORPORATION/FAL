@@ -188,7 +188,7 @@ print("Predicted class:", model.config.id2label[predicted_class_idx])
 
 ## Dataset: FAL-500
 
-The **FAL-500 dataset** consists of 500 video categories, each containing 5000 video clips. This dataset is used for training and evaluating the model's performance in various video classification tasks.
+The **FAL-500 dataset** consists of 500 video categories. This dataset is used for training and evaluating the model's performance in various video classification tasks.
 
 The dataset includes categories across different domains, such as:
 
