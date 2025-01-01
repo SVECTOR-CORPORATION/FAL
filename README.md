@@ -267,7 +267,7 @@ If you use FAL in your research, please cite the following paper:
 }
 ```
 ---
-PAPER:  [FAL - Technical Paper](fal.pdf)
+PAPER:  [FAL - Technical Paper](FAL.pdf)
 
 ---
 ### Explanation of Sections:
